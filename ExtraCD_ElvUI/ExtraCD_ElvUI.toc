@@ -1,6 +1,6 @@
-## Interface: 60000
+## Interface: 62000
 ## Title: ExtraCD |cff1784d1ElvUI|r
-## Version: 1
+## Version: 1.1
 ## Author: EU - Prio#2790
 ## RequiredDep: ElvUI, ExtraCD
 
